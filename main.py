@@ -29,3 +29,9 @@ def main(user, description, file_name):
 
 if __name__ == '__main__':
     main()
+
+''' 
+python main.py -u <username> -d [description] -f [file-name]
+
+santiagobasulto
+'''    
